@@ -1,0 +1,160 @@
+
+.h4A{
+    color: rgb(63, 36, 36);
+}
+
+nav{
+    height: 80px;
+    background-color: rgb(116, 82, 44);
+    display: flex;   
+}
+.a{
+    padding: 10px 350px;
+}
+a{
+    text-decoration: none;
+    color: rgb(247, 183, 183);
+    display: block;
+}
+.divvv{
+    background-color: brown;
+    color: rgb(247, 183, 183);
+    height: 40px;
+ }
+ .h3A{
+    text-align: center;
+    color: rgb(248, 99, 156);
+    border: 4px double rgb(214, 19, 51);
+}
+.p1{
+    float:left;
+    padding: 15px;
+    font-size: 30px;
+    position: relative;
+}
+button{
+    border: 4px dotted pink;
+    color: pink;
+    background-color: rgb(44, 28, 9);
+ }
+ button:hover{
+    font-size: 20px;
+ }
+.divvv{
+    background-color: brown;
+    color: rgb(247, 183, 183);
+    height: 40px;
+ }
+.title1{
+    background-color: rgb(255, 235, 239);
+    height: 1900px;
+    
+}
+.h3A{
+    text-align: center;
+    color: rgb(248, 99, 156);
+    border: 4px double rgb(214, 19, 51);
+}
+.DIV1{
+    display: flex;
+    justify-content: space-between;
+}
+.DIV2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.DIV3{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.imgg{
+    height: 200px;
+    width: 200px;
+    border: solid rgb(109, 73, 27);
+    border-radius: 30px;
+  }
+  .imgg:hover{
+    scale: 2;
+    border: solid pink;
+
+  }
+  p{
+    color: rgb(32, 21, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.button1{
+    border-radius: 20px;
+    border: solid pink;
+    background-color: antiquewhite;
+    font-size: 20px;
+    margin: 30px;
+    width:90px;
+    text-align: center;
+}
+.imgG{
+    height: 300px;
+    width: 300px;
+    border: solid pink;
+    border-radius: 20px;
+}
+.imgG:hover{
+    scale: 2;
+    border: solid rgb(221, 22, 98);
+}
+svg{
+    fill: red;
+}
+.fill{
+    text-align: center;
+}
+.content1{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content2{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content3{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content4{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content5{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content6{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content7{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content8{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content9{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content10{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content11{
+    border-radius: 20px;
+    border: solid pink;
+}
+.content12{
+    border-radius: 20px;
+    border: solid pink;
+}
